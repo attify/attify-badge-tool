@@ -2,16 +2,16 @@
 
 Attify badge tool requires Python 3.
 
-## Dependencies
+## Installation
 
 ```
-pip install pyqt5
-pip install pyserial
-pip install strip_ansi
+$ git clone https://github.com/attify/attify-badge-tool
+$ cd attify-badge-tool
+$ pip3 install -r requirements.txt
 ```
 
 ## Running
 
 ```
-$ python serial-console.py
+$ python3 serial-console.py
 ```
