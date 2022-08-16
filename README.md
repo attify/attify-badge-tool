@@ -10,7 +10,7 @@ $ cd attify-badge-tool
 $ pip3 install -r requirements.txt
 ```
 
-Alternatively you can download a precompiled appimage binary from Releases.
+Alternatively you can download a precompiled appimage binary from **[releases](https://github.com/attify/attify-badge-tool/releases)**
 
 ## Running
 
